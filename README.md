@@ -1,10 +1,9 @@
 ## Hi, I'm Tuğba 👋
 
 🎓 Computer Engineering student @ **Bursa Teknik Üniversitesi**
-🤖 Interested in **NLP**, semantic search & AI-driven systems
-🗄️ Working with **PostgreSQL · pgvector · Python · Node.js · React**
-📌 Building **TNOTE** — an AI-powered academic note platform with RAG & Sentence Transformers
-📊 Also into ML projects & IoT data systems
+🤖 Interested in **NLP**, AI-driven systems & semantic search
+🗄️ Working with databases, backend development & cloud technologies
+🌱 Always learning, always building
 📍 Bursa, Türkiye
 
 ---
@@ -21,7 +20,5 @@
 `AWS S3` `JWT` `Git` `Jupyter Notebook` `MQTT`
 
 ---
-
-
 
 *Always learning. Always building.*
