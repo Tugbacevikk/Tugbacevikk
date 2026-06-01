@@ -22,12 +22,6 @@
 
 ---
 
-### 📌 Featured Projects
 
-- **TNOTE** — AI-powered academic note sharing & recommendation platform for BTÜ students
-- **Akıllı Konteyner Doluluk Seviyesi Tahmini** — ML-based smart container level prediction
-- **NetProbe** — UDP-based reliable file transfer system (Python)
-
----
 
 *Always learning. Always building.*
