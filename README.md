@@ -1,24 +1,22 @@
-## Hi, I'm Tuğba 👋
+Hi, I'm Tuğba 👋
 
-🎓 Computer Engineering student @ **Bursa Teknik Üniversitesi**
-🤖 Interested in **NLP**, AI-driven systems & semantic search
-🗄️ Working with databases, backend development & cloud technologies
-🌱 Always learning, always building
-📍 Bursa, Türkiye
+🎓 Computer Engineering student @ Bursa Teknik Üniversitesi 🎙️ Interested in speech AI, LLMs & computer vision  📫 tcevik2824@gmail.com
 
----
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
-**Languages & Frameworks**
-`Python` `JavaScript` `Node.js` `React.js` `SQL`
+Languages Python TypeScript JavaScript Dart SQL C Java
 
-**Databases & AI**
-`PostgreSQL` `pgvector` `Sentence Transformers` `RAG pipelines` `MongoDB`
+Speech & Audio AI faster-whisper sherpa-onnx Zipformer pyannote.audio SpeechBrain Silero VAD Piper TTS
 
-**Tools & Cloud**
-`AWS S3` `JWT` `Git` `Jupyter Notebook` `MQTT`
+LLMs & NLP Ollama Gemma fine-tuning RAG MCP ChromaDB Sentence Transformers CRF
 
----
+Computer Vision & ML YOLOv8 OpenCV scikit-learn Jupyter Notebook
 
-*Always learning. Always building.*
+Backend & Data FastAPI Flask gRPC PostgreSQL SQLite Alembic Redis
+
+Frontend & Mobile React Vite Flutter Streamlit Chart.js
+
+Tools & Infra Docker Git Linux Raspberry Pi MQTT
+
+Always learning. Always building.
